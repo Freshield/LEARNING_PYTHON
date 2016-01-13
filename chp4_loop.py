@@ -31,6 +31,7 @@ while n<=2:
 for x in L:
     print(x)
 	
+
 	
 	
 	
