@@ -1,5 +1,0 @@
-C:\Users\FRESHIELD\AppData\Local\Programs\Python\Python35\Scripts\
-C:\Users\FRESHIELD\AppData\Local\Programs\Python\Python35\
-
-C:\Python27\Scripts
-C:\Python27
